@@ -1,0 +1,15 @@
+C:\Users\benkh\source\repos\DesignPattern\Guru\bin\Debug\net6.0\Guru.exe
+C:\Users\benkh\source\repos\DesignPattern\Guru\bin\Debug\net6.0\Guru.deps.json
+C:\Users\benkh\source\repos\DesignPattern\Guru\bin\Debug\net6.0\Guru.runtimeconfig.json
+C:\Users\benkh\source\repos\DesignPattern\Guru\bin\Debug\net6.0\Guru.dll
+C:\Users\benkh\source\repos\DesignPattern\Guru\bin\Debug\net6.0\ref\Guru.dll
+C:\Users\benkh\source\repos\DesignPattern\Guru\bin\Debug\net6.0\Guru.pdb
+C:\Users\benkh\source\repos\DesignPattern\Guru\obj\Debug\net6.0\Guru.csproj.AssemblyReference.cache
+C:\Users\benkh\source\repos\DesignPattern\Guru\obj\Debug\net6.0\Guru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benkh\source\repos\DesignPattern\Guru\obj\Debug\net6.0\Guru.AssemblyInfoInputs.cache
+C:\Users\benkh\source\repos\DesignPattern\Guru\obj\Debug\net6.0\Guru.AssemblyInfo.cs
+C:\Users\benkh\source\repos\DesignPattern\Guru\obj\Debug\net6.0\Guru.csproj.CoreCompileInputs.cache
+C:\Users\benkh\source\repos\DesignPattern\Guru\obj\Debug\net6.0\Guru.dll
+C:\Users\benkh\source\repos\DesignPattern\Guru\obj\Debug\net6.0\ref\Guru.dll
+C:\Users\benkh\source\repos\DesignPattern\Guru\obj\Debug\net6.0\Guru.pdb
+C:\Users\benkh\source\repos\DesignPattern\Guru\obj\Debug\net6.0\Guru.genruntimeconfig.cache

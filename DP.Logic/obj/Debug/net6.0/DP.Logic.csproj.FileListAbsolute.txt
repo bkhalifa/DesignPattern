@@ -1,0 +1,12 @@
+C:\Users\benkh\source\repos\DesignPattern\DP.Logic\bin\Debug\net6.0\DP.Logic.deps.json
+C:\Users\benkh\source\repos\DesignPattern\DP.Logic\bin\Debug\net6.0\DP.Logic.dll
+C:\Users\benkh\source\repos\DesignPattern\DP.Logic\bin\Debug\net6.0\ref\DP.Logic.dll
+C:\Users\benkh\source\repos\DesignPattern\DP.Logic\bin\Debug\net6.0\DP.Logic.pdb
+C:\Users\benkh\source\repos\DesignPattern\DP.Logic\obj\Debug\net6.0\DP.Logic.csproj.AssemblyReference.cache
+C:\Users\benkh\source\repos\DesignPattern\DP.Logic\obj\Debug\net6.0\DP.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benkh\source\repos\DesignPattern\DP.Logic\obj\Debug\net6.0\DP.Logic.AssemblyInfoInputs.cache
+C:\Users\benkh\source\repos\DesignPattern\DP.Logic\obj\Debug\net6.0\DP.Logic.AssemblyInfo.cs
+C:\Users\benkh\source\repos\DesignPattern\DP.Logic\obj\Debug\net6.0\DP.Logic.csproj.CoreCompileInputs.cache
+C:\Users\benkh\source\repos\DesignPattern\DP.Logic\obj\Debug\net6.0\DP.Logic.dll
+C:\Users\benkh\source\repos\DesignPattern\DP.Logic\obj\Debug\net6.0\ref\DP.Logic.dll
+C:\Users\benkh\source\repos\DesignPattern\DP.Logic\obj\Debug\net6.0\DP.Logic.pdb

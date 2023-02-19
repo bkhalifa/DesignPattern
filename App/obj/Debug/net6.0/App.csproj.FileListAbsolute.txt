@@ -1,0 +1,15 @@
+C:\Users\benkh\source\repos\DesignPattern\App\bin\Debug\net6.0\App.exe
+C:\Users\benkh\source\repos\DesignPattern\App\bin\Debug\net6.0\App.deps.json
+C:\Users\benkh\source\repos\DesignPattern\App\bin\Debug\net6.0\App.runtimeconfig.json
+C:\Users\benkh\source\repos\DesignPattern\App\bin\Debug\net6.0\App.dll
+C:\Users\benkh\source\repos\DesignPattern\App\bin\Debug\net6.0\ref\App.dll
+C:\Users\benkh\source\repos\DesignPattern\App\bin\Debug\net6.0\App.pdb
+C:\Users\benkh\source\repos\DesignPattern\App\obj\Debug\net6.0\App.csproj.AssemblyReference.cache
+C:\Users\benkh\source\repos\DesignPattern\App\obj\Debug\net6.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benkh\source\repos\DesignPattern\App\obj\Debug\net6.0\App.AssemblyInfoInputs.cache
+C:\Users\benkh\source\repos\DesignPattern\App\obj\Debug\net6.0\App.AssemblyInfo.cs
+C:\Users\benkh\source\repos\DesignPattern\App\obj\Debug\net6.0\App.csproj.CoreCompileInputs.cache
+C:\Users\benkh\source\repos\DesignPattern\App\obj\Debug\net6.0\App.dll
+C:\Users\benkh\source\repos\DesignPattern\App\obj\Debug\net6.0\ref\App.dll
+C:\Users\benkh\source\repos\DesignPattern\App\obj\Debug\net6.0\App.pdb
+C:\Users\benkh\source\repos\DesignPattern\App\obj\Debug\net6.0\App.genruntimeconfig.cache
