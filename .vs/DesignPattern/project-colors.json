@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "96799127-2e4e-4767-bc53-25e5bdbbf311": {
+      "ProjectGuid": "96799127-2e4e-4767-bc53-25e5bdbbf311",
+      "DisplayName": "DP.Logic",
+      "ColorIndex": 0
+    },
+    "f8a4b113-c2c7-46cc-883e-364569c10199": {
+      "ProjectGuid": "f8a4b113-c2c7-46cc-883e-364569c10199",
+      "DisplayName": "DP.UI",
+      "ColorIndex": 1
+    },
+    "b0f5555e-8da1-418b-9511-9e0ce42f66c7": {
+      "ProjectGuid": "b0f5555e-8da1-418b-9511-9e0ce42f66c7",
+      "DisplayName": "Singleton",
+      "ColorIndex": 2
+    },
+    "8e63b602-d1a3-4aeb-8dea-59de1f855447": {
+      "ProjectGuid": "8e63b602-d1a3-4aeb-8dea-59de1f855447",
+      "DisplayName": "Strategy",
+      "ColorIndex": 3
+    },
+    "dd468aef-6e5c-4c31-b097-5c6545e440fb": {
+      "ProjectGuid": "dd468aef-6e5c-4c31-b097-5c6545e440fb",
+      "DisplayName": "App",
+      "ColorIndex": 4
+    },
+    "e96ae616-c368-44fa-bbe5-0921045ab2e7": {
+      "ProjectGuid": "e96ae616-c368-44fa-bbe5-0921045ab2e7",
+      "DisplayName": "Guru",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c288a201-85c9-477b-b0a1-8b27cd58828b": {
+      "ProjectGuid": "c288a201-85c9-477b-b0a1-8b27cd58828b",
+      "DisplayName": "Mediator",
+      "ColorIndex": 6
+    },
+    "e2f0958a-5b18-4c3f-ade4-1af55533dc86": {
+      "ProjectGuid": "e2f0958a-5b18-4c3f-ade4-1af55533dc86",
+      "DisplayName": "ChainOfResponsability",
+      "ColorIndex": 7
+    },
+    "d8a7c5d7-8530-44c1-9104-749d86a3e066": {
+      "ProjectGuid": "d8a7c5d7-8530-44c1-9104-749d86a3e066",
+      "DisplayName": "Command",
+      "ColorIndex": 8
+    },
+    "2b9fd2a0-db33-4bee-be5a-78383e742234": {
+      "ProjectGuid": "2b9fd2a0-db33-4bee-be5a-78383e742234",
+      "DisplayName": "Observer",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
