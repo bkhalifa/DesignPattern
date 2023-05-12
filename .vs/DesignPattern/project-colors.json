@@ -55,7 +55,12 @@
       "ProjectGuid": "2b9fd2a0-db33-4bee-be5a-78383e742234",
       "DisplayName": "Observer",
       "ColorIndex": 9
+    },
+    "b306e0dd-70ec-447c-b44d-2f2afd2538e6": {
+      "ProjectGuid": "b306e0dd-70ec-447c-b44d-2f2afd2538e6",
+      "DisplayName": "State",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 11
 }

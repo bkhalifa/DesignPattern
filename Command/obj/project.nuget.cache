@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8TxzXCboLqG6ik6wee+Yk88gvw3Pv8GMkwHXThUoZbPeRc1NVY3CF380AYuiKOptnJ9uDpiboh2ixf+aXDcbwA==",
+  "dgSpecHash": "oJ+HvHF4Qx9BtLBCLJY6g0UKknZWUM37qRiHDHb3/FLiR0YU2KaBl4D4R9pEcququKbacp2l0IkGhLABFybYYw==",
   "success": true,
   "projectFilePath": "C:\\Users\\benkh\\source\\repos\\DesignPattern\\Command\\Command.csproj",
   "expectedPackageFiles": [

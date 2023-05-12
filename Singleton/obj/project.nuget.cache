@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "F9oClNLHo133VN7yPdAlE/mg0ltCz1G+LWihtmQDtIcdS6i5lleiGWSQ+LKFSaiRlqFaJHSVr7fppHaSH1so1g==",
+  "dgSpecHash": "U9X2nllwXY5WJvoUZvpihwqXAtc7RnBMMdHyeOb9DoLPocexLBb2r7lIpSMmOI4UDunzZ+76N09FkJ54wQ6LCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\benkh\\source\\repos\\DesignPattern\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [

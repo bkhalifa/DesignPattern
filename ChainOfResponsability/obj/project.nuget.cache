@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "s8gy+AqrC2JLKy2TEJqj4oaqGw21m0WuXNh9O4rkHqeFTPHNKVhy7JzuC8GeybA8bX6Kiz7jy/aNR4bBmrcW8w==",
+  "dgSpecHash": "rySClHnGmi8XyiHi/qPhKVAC6XkSXiFyG6W5Xr1AgnsHvR1hJkrrnaKfLbFZ2kVT8k5hCjjA17XGl4LO6km0QQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\benkh\\source\\repos\\DesignPattern\\ChainOfResponsability\\ChainOfResponsability.csproj",
   "expectedPackageFiles": [
